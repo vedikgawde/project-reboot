@@ -108,6 +108,7 @@ Prepare the project for testing, approvals and controlled launch.
 | [Change Request](07_Change_Request.md) | Demonstrates structured change management |
 | [Project Dashboard](08_Project_Dashboard.md) | Provides an overview of project health |
 | [Risk Register](09_Risk_Register.md) | Provides detailed risk assessment and response planning |
+| [Project Health Dashboard](Project_Reboot_Dashboard.xlsx) | Excel dashboard showing project health, risks, issues and recovery progress |
 
 ---
 
